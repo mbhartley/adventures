@@ -206,9 +206,8 @@ $icon-font-path: "/bower_components/bootstrap-sass-official/vendor/assets/fonts/
     padding-bottom: 6px;
 }
 
-.social-icons ul > li:hover{
-    background-color: rgb(94, 110, 108);
-    border-radius: 50%;
+.social-icons ul > li > img:hover{
+    opacity: 0.7;
 }
 
 .legal-stuff {
